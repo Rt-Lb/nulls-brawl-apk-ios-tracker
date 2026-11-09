@@ -69,3 +69,5 @@ An updated version matrix, technical compatibility reference, and installation d
 
 * **Dev.to Technical Guide:** [How to Install Nulls Brawl v70.757 iPA on iOS & iPadOS Without Revokes](https://dev.to/eterasai/how-to-install-nulls-brawl-v70757-ipa-on-ios-ipados-without-revokes-sidestore-feather--3fc2)
 * **Medium Tutorial:** [iOS Sideloading Guide for Nulls Brawl, BSD Brawl & Magic Brawl](https://medium.com/@kiritothegamer39/how-to-install-nulls-brawl-v70-757-587aa6954f6b)
+* **Telegra.ph Mod Menu & FOV Guide:** [BSD Brawl v70.757 & Magic Brawl v54.243 Mod Menu, Camera Zoom & Commands Guide](https://telegra.ph/BSD-Brawl-v70757--Magic-Brawl-v54243-Mod-Menu-Camera-Zoom--Commands-Guide-11-09)
+* **GitHub Gist Cheat Sheet:** [Nulls Brawl v70.757 & Nulls Clash v18.647.5 In-Game Chat Commands Reference](https://gist.github.com/Rt-Lb/8b7df9b4d3cd881b4addf3858b31492a)
