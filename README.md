@@ -62,3 +62,10 @@ An updated version matrix, technical compatibility reference, and installation d
 
 * **"Client and Server Are Out of Sync" / Update Required:** Occurs when the server migrates to a newer client build (such as `v70.648` → `v70.757`). Download the matching APK or iPA build from the [Nulls Brawl Download Page](https://nullsmod.com/nulls-brawl/) and install it directly over your current app.
 * **"App Not Installed (Package Conflicts)":** Verify at least `2.5 GB` of free internal storage is available on your device before extracting the 1.2 GB installer payload.
+
+---
+
+## 📚 External Installation & Sideloading Guides
+
+* **Dev.to Technical Guide:** [How to Install Nulls Brawl v70.757 iPA on iOS & iPadOS Without Revokes](https://dev.to/eterasai/how-to-install-nulls-brawl-v70757-ipa-on-ios-ipados-without-revokes-sidestore-feather--3fc2)
+* **Medium Tutorial:** [iOS Sideloading Guide for Nulls Brawl, BSD Brawl & Magic Brawl](https://medium.com/@kiritothegamer39/how-to-install-nulls-brawl-v70-757-587aa6954f6b)
